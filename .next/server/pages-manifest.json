@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.js",
+  "/works/COMS": "pages/works/COMS.js",
+  "/works/cryptohex": "pages/works/cryptohex.js",
+  "/works/handgesture": "pages/works/handgesture.js",
+  "/works": "pages/works.js",
+  "/works/Adulting101": "pages/works/Adulting101.js",
+  "/": "pages/index.js"
+}

@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[462],{639:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/works/handgesture",function(){return _(8886)}])},8886:function(){}},function(n){n.O(0,[774,888,179],function(){return n(n.s=639)}),_N_E=n.O()}]);
